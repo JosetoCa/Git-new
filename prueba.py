@@ -14,6 +14,7 @@ x = np.linspace(0, np.pi)
 y = np.sin(x)
 
 
+
 plt.title('gráfica de prueba')
 plt.plot(x,y)
 plt.show()
