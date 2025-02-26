@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 
 x = np.linspace(0, np.pi)
 
-y = np.sin(x)
+y = np.cos(x)
 
 
 
